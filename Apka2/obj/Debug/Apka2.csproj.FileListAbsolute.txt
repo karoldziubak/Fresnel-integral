@@ -1,0 +1,20 @@
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\bin\Debug\Apka2.exe.config
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\bin\Debug\Apka2.exe
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\bin\Debug\Apka2.pdb
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.Okno1.resources
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.Properties.Resources.resources
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.csproj.GenerateResource.Cache
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.csproj.CoreCompileInputs.cache
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.exe
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.pdb
+L:\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\bin\Debug\Apka2.exe.config
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\bin\Debug\Apka2.exe
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\bin\Debug\Apka2.pdb
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.Okno1.resources
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.Properties.Resources.resources
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.exe
+C:\Users\Karol\Desktop\studia\Semestr 6\Projektowanie materialow i struktur\kd-projektowanie lasera kaskadowego\Apka2\Apka2\Apka2\obj\Debug\Apka2.pdb
