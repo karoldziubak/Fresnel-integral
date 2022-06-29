@@ -16,7 +16,7 @@ namespace Apka2
         {
             InitializeComponent();
         }
-        bool singen = false;
+        bool singen = false; //test
         bool cosgen = false;
         double dx=0.01, xmin= -6.2, xmax= 6.2;
         double FresnelCOS(double x)
